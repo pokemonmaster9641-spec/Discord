@@ -244,7 +244,7 @@ async def on_ready():
     print("Daily payout task started!")
 
 keep_alive()
-client.run(BOT_TOKEN
+client.run(BOT_TOKEN)
 
            from keep_alive import keep_alive
 keep_alive()

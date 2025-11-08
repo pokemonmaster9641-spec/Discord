@@ -246,6 +246,9 @@ async def on_ready():
 keep_alive()
 client.run(BOT_TOKEN)
 
-           from keep_alive import keep_alive
+from keep_alive import keep_alive
 keep_alive()
+
+client.run(BOT_TOKEN)
+
 
